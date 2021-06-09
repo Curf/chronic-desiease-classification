@@ -1,4 +1,4 @@
-# chronic-desiease-classification
+# chronic-disease-classification
 In this study, we employ both binary and multi-label approaches to classifying chronic disease diagnoses based on the Behavioral Risk Factor and Surveillance System (BRFSS) survey data, provided by the Centers for Disease and Control and Prevention (CDC).
 
   - [See the final report for details and results](Quantifying%20Biopsychosocial%20Risk%20and%20Resilience.pdf)
